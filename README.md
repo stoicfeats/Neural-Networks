@@ -5,3 +5,5 @@ So, imagine if house pricing was as easy as a house costs 50k + 50k per bedroom,
 now we want to create a neural network that learns this relationship so that it would predict a 7 bedroom house as costing close to 400k etc.
 
 Editor used : Google Colab 
+Lib used : Tensorflow 
+Dataset : Kaggle 
